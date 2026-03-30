@@ -1,0 +1,11 @@
+student_id,name,gender,major,study_habit,prefers_ac
+101,Anupam,Male,CSE,Night Owl,Yes
+102,Rahul,Male,ECE,Early Bird,No
+103,Sneha,Female,CSE,Early Bird,Yes
+104,Amit,Male,CSE,Night Owl,Yes
+105,Priya,Female,ME,Night Owl,No
+106,Vikram,Male,CSE,Early Bird,No
+107,Neha,Female,CSE,Early Bird,Yes
+108,Karan,Male,ECE,Night Owl,No
+109,Ishita,Female,CSE,Early Bird,Yes
+110,Arjun,Male,ME,Night Owl,Yes
